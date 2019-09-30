@@ -12,4 +12,4 @@ C:\Users\Gennady\source\decipherer\decipherer\Debug>decipherer encrypted.txt pla
 C:\Users\Gennady\source\decipherer\decipherer\Debug>decipherer plain.txt none.txt aff 5 19
 
 С уважением,
-Шибаев Геннадий
+NeutralGender
