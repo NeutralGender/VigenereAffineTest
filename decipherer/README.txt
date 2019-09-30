@@ -7,9 +7,9 @@
 
 Пример запуска программы через консоль:
 
-C:\Users\Gennady\source\decipherer\decipherer\Debug>decipherer encrypted.txt plain.txt vig listatsoftware
+C:\Users\NeutralGender\source\decipherer\decipherer\Debug>decipherer encrypted.txt plain.txt vig listatsoftware
 
-C:\Users\Gennady\source\decipherer\decipherer\Debug>decipherer plain.txt none.txt aff 5 19
+C:\Users\NeutralGender\source\decipherer\decipherer\Debug>decipherer plain.txt none.txt aff 5 19
 
 С уважением,
 NeutralGender
